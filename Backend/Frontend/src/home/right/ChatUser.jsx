@@ -28,7 +28,7 @@ const getOnlineUserStatus = (userId)=>{
           {/* <div className={`avatar ${isOnline ? "avatar-online" : ""}`}> */}
           <div className="avatar " >
             <div className="w-14 rounded-full">
-              <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+              <img src="profile.png" />
             </div>
           </div>
         </div>
